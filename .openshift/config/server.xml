@@ -123,7 +123,7 @@
                resourceName="UserDatabase"/>
       </Realm>
 
-      <Host name="localhost"  appBase="webapps"
+      <Host name="localhost"  appBase="core/target"
             unpackWARs="false" autoDeploy="true">
 
         <!-- SingleSignOn valve, share authentication between web applications
